@@ -7,6 +7,7 @@
     [(289) 943 0858],
     [#link("mailto:ritchielreza@gmail.com")],
   ),
+  paper-size: "a4",
   footer-text: [Argon Résumé --- Page#sym.space]
 )
 
@@ -28,8 +29,6 @@
   time: [September 2025--March 2026],
 )[
 ]
-
-#pagebreak()
 
 #experience(
   place: "O'Neill CVI",
